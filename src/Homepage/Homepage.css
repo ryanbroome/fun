@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(224, 237, 196);
+    display: flex;
+    position: flex;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    display: flex;
+    padding: 20px;
+    border: 4px solid purple;
+    border-radius: 8%;
+    position: flex;
+    margin: 25px;
+    background-color: lightblue;
+}
+
+span, p, aside {
+    color: rgb(212, 188, 212);
+    background-color: purple;
+}
+
+ul, ol {
+    color: brown;
+    background-color: burlywood;
+}
